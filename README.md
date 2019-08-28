@@ -31,7 +31,6 @@ Anonymous users cannot view the website – users must login before seeing conte
 
     ```bash
     git clone git@github.com:ministryofjustice/hmcts-km.git .
-    rm -rf .git
     ```
 
 2. Create a `.env` file by copying from `.env.example`:
